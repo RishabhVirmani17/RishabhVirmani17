@@ -13,23 +13,39 @@
   <a href="https://rishabh-virmani-portfolio.vercel.app/" target="_blank"><strong>Explore My Portfolio 🌐</strong></a>
 </p>
 
+<p align="center">
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=ff69b4&center=true&width=600&lines=Software+Developer;AI+Researcher;Open+Source+Contributor)
+</p>
+
 ---
 
 ## 👨‍💻 About Me
 
-Driven B.Tech undergraduate specializing in software development and AI innovations. Skilled in backend engineering and passionate about building intelligent chatbots and scalable solutions. Constantly learning and contributing to open-source projects to push the boundaries of technology.
+Driven B.Tech undergraduate skilled in backend engineering, AI innovations, and full-stack solutions. Passionate about building intelligent chatbots, exploring data structures, and contributing to open-source tech.
+
+I blend practical coding expertise with an innovative mindset to solve complex problems efficiently.
 
 ---
 
-## 💼 Top Projects
+## 💼 What I Do
+
+- 💻 <span style="color:#61dafb;">Software Development</span>  
+- 🤖 <span style="color:#f1c40f;">AI & Machine Learning</span>  
+- 🌐 <span style="color:#8e44ad;">Web Development</span>  
+- 🚀 <span style="color:#e74c3c;">Cloud & DevOps</span>
+- 📊 <span style="color:#3498db;">Data Analysis & Visualization</span>
+
+---
+
+## 🔥 Top Projects
 
 | Project | Description | Language | Link |
 | ------ | ----------- | --------| ---- |
-| RAG Chatbot with Langchain  | Retrieval-Augmented Generation chatbot integrating LLMs and document search | Python | [GitHub](https://github.com/RishabhVirmani17/RAG_chatabot_with_Langchain) |
-| Finwelth Expense Tracker | Robust expense manager with secure login & database integration | React, Node.js | [GitHub](https://github.com/RishabhVirmani17/Finwelth) |
-| Portfolio Website | Dynamic portfolio showcasing projects, blogs & skills | React, HTML | [GitHub](https://github.com/RishabhVirmani17/Portfolio) |
-| Quiz Web App | Interactive JavaScript quiz with state management and scoring | JavaScript | [GitHub](https://github.com/RishabhVirmani17/QUIZ-) |
-| Resume Builder | Build customized resumes with easy editing & JSON data integration | JavaScript  | [GitHub](https://github.com/RishabhVirmani17/Resume-Builder-Rishabh) |
+| RAG Chatbot with Langchain  | Intelligent chatbot integrating LLMs with document retrieval for context-aware responses | Python | [GitHub](https://github.com/RishabhVirmani17/RAG_chatabot_with_Langchain) |
+| Finwelth Expense Tracker | Secure expense tracker with authentication & realtime database sync | React, Node.js | [GitHub](https://github.com/RishabhVirmani17/Finwelth) |
+| Portfolio Website | Dynamic portfolio showcasing projects and skills built with React | React, HTML | [GitHub](https://github.com/RishabhVirmani17/Portfolio) |
+| Quiz Web App | Interactive quiz app with state management and live scoring | JavaScript | [GitHub](https://github.com/RishabhVirmani17/QUIZ-) |
+| Resume Builder | Easy customizable resume builder with JSON data integration | JavaScript  | [GitHub](https://github.com/RishabhVirmani17/Resume-Builder-Rishabh) |
 
 ---
 
@@ -67,12 +83,3 @@ Driven B.Tech undergraduate specializing in software development and AI innovati
   <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" alt="Coding animation" style="max-width:100%; height:auto;">
 </p>
 
-
-## 📈 GitHub Streak & Contributions
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RishabhVirmani17&theme=dark&hide_border=true)  
-![GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=RishabhVirmani17&theme=github)
-
----
-
-*Thanks for visiting my profile! Feel free to explore my projects and reach out for collaborations or opportunities.*  
