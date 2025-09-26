@@ -41,7 +41,7 @@ Each project demonstrates something unique about my technical journey!
 
 ---
 
-## 🧑‍🔬 What I Do (Animated!)
+## 🧑‍🔬 What I Do
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=F1C40F&width=420&lines=Backend+API+Development;Data+Structures+%26+Algorithms;AI+Chatbot+Engineering;Stock+Market+Analysis;System+Design;Open+Source+Collaborator;Portfolio+Builder;Tech+Blogger" alt="Animated Skill Set" />
