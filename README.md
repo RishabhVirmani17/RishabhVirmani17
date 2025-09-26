@@ -2,67 +2,66 @@
   <img src="https://komarev.com/ghpvc/?username=RishabhVirmani17&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
-<h1 align="center" style="color:#1abc9c;">Hi, I'm Rishabh Virmani 👋</h1>
-
-<p align="center" style="font-size:18px; max-width:700px;">
-  B.Tech undergrad at Bhagwan Parshuram Institute of Technology | Software Developer & AI Enthusiast 🚀<br>
+<h1 align="center">Hi, I'm Rishabh Virmani 👋</h1>
+<p align="center">
+  B.Tech undergrad at Bhagwan Parshuram Institute of Technology<br>
+  <strong>Software Developer</strong> · <strong>AI Enthusiast</strong> · <strong>Backend Engineer</strong> 🚀<br>
   Welcome to my GitHub profile where I share impactful projects and continuous learning.
 </p>
-
 <p align="center">
-  <a href="https://rishabh-virmani-portfolio.vercel.app/" target="_blank"><strong>Explore My Portfolio 🌐</strong></a>
+  <a href="https://rishabh-virmani-portfolio.vercel.app/" target="_blank"><strong>🌐 Explore My Portfolio</strong></a>
 </p>
 
 <p align="center">
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=ff69b4&center=true&width=600&lines=Software+Developer;AI+Researcher;Open+Source+Contributor)
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=ff69b4&center=true&width=600&lines=Software+Developer;AI+Researcher;Open+Source+Contributor;Backend+Engineer;Tech+Blogger;Project+Builder;Problem+Solver" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-Driven B.Tech undergraduate skilled in backend engineering, AI innovations, and full-stack solutions. Passionate about building intelligent chatbots, exploring data structures, and contributing to open-source tech.
-
-I blend practical coding expertise with an innovative mindset to solve complex problems efficiently.
+Focused on building modern backend systems, intelligent AI solutions, and scalable web apps. Always learning new technologies, improving my skills, and contributing to open-source.
 
 ---
 
-## 💼 What I Do
+## 📂 Featured Projects
 
-- 💻 <span style="color:#61dafb;">Software Development</span>  
-- 🤖 <span style="color:#f1c40f;">AI & Machine Learning</span>  
-- 🌐 <span style="color:#8e44ad;">Web Development</span>  
-- 🚀 <span style="color:#e74c3c;">Cloud & DevOps</span>
-- 📊 <span style="color:#3498db;">Data Analysis & Visualization</span>
+Here are some of my best works from across my repositories.  
+Each project demonstrates something unique about my technical journey!
 
----
-
-## 🔥 Top Projects
-
-| Project | Description | Language | Link |
-| ------ | ----------- | --------| ---- |
-| RAG Chatbot with Langchain  | Intelligent chatbot integrating LLMs with document retrieval for context-aware responses | Python | [GitHub](https://github.com/RishabhVirmani17/RAG_chatabot_with_Langchain) |
-| Finwelth Expense Tracker | Secure expense tracker with authentication & realtime database sync | React, Node.js | [GitHub](https://github.com/RishabhVirmani17/Finwelth) |
-| Portfolio Website | Dynamic portfolio showcasing projects and skills built with React | React, HTML | [GitHub](https://github.com/RishabhVirmani17/Portfolio) |
-| Quiz Web App | Interactive quiz app with state management and live scoring | JavaScript | [GitHub](https://github.com/RishabhVirmani17/QUIZ-) |
-| Resume Builder | Easy customizable resume builder with JSON data integration | JavaScript  | [GitHub](https://github.com/RishabhVirmani17/Resume-Builder-Rishabh) |
+| 💡 Project Name                          | 🚀 Tech Stack            | 📝 Description                                                                                           | 🔗 Link                                                    |
+|------------------------------------------|-------------------------|----------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|
+| RAG Chatbot with Langchain               | Python, Langchain       | Hybrid LLM chatbot with dynamic info retrieval from documents                                            | [RAG_chatabot_with_Langchain](https://github.com/RishabhVirmani17/RAG_chatabot_with_Langchain) |
+| Finwelth Expense Tracker                 | React, Node.js          | Expense manager with secure login, receipt scanning, database integration                                | [Finwelth](https://github.com/RishabhVirmani17/Finwelth)  |
+| Portfolio Website                        | React, HTML, CSS        | Personal portfolio with blogs, projects, and skill demonstration                                         | [Portfolio](https://github.com/RishabhVirmani17/Portfolio) |
+| Resume Builder                           | JavaScript, HTML, CSS   | Interactive resume builder with JSON editing and export                                                  | [Resume-Builder-Rishabh](https://github.com/RishabhVirmani17/Resume-Builder-Rishabh) |
+| Quiz Web App                             | JavaScript, HTML, CSS   | Online quiz platform for testing and practice                                                            | [QUIZ-](https://github.com/RishabhVirmani17/QUIZ-)        |
+| PROJECT1-Gym-Website                     | HTML, CSS, JavaScript   | Web portal for gym, fitness classes, and programs                                                        | [PROJECT1-Gym-Webisite-](https://github.com/RishabhVirmani17/PROJECT1-Gym-Webisite-) |
+| Resume Builder (Simple)                  | JavaScript, HTML, CSS   | Streamlined resume builder for fast, clean profile creation                                              | [Resume-Builder](https://github.com/RishabhVirmani17/Resume-Builder) |
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 🧑‍🔬 What I Do (Animated!)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RishabhVirmani17&show_icons=true&theme=radical&count_private=true" width="48%" alt="Rishabh's GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=RishabhVirmani17&theme=radical" width="48%" alt="GitHub Streak Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishabhVirmani17&layout=compact&langs_count=8&theme=radical" alt="Top Languages"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=F1C40F&width=420&lines=Backend+API+Development;Data+Structures+%26+Algorithms;AI+Chatbot+Engineering;Stock+Market+Analysis;System+Design;Open+Source+Collaborator;Portfolio+Builder;Tech+Blogger" alt="Animated Skill Set" />
 </p>
 
 ---
 
-## 📫 Connect with Me
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RishabhVirmani17&show_icons=true&theme=radical&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=RishabhVirmani17&theme=radical" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishabhVirmani17&layout=compact&langs_count=8&theme=radical" />
+</p>
+
+---
+
+## 🌈 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rishabhvirmani" target="_blank">LinkedIn</a> |
@@ -74,11 +73,8 @@ I blend practical coding expertise with an innovative mindset to solve complex p
 ---
 
 <p align="center">
-  <em>✨ Thank you for visiting my profile! Let's connect and innovate together. ✨</em>
+  <em>✨ Thanks for visiting! Let's connect and innovate together. ✨</em>
 </p>
-
----
-
 <p align="center">
   <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" alt="Coding animation" style="max-width:100%; height:auto;">
 </p>
